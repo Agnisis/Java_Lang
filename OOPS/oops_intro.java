@@ -65,6 +65,12 @@ class Cons {
     }
 }
 
+class des{ 
+
+    // there is no use if destructor in java as its automatically called when object is destroyed by garbage collecter
+
+}
+
 public class oops_intro {
 
     public static void main(String args[]) {
